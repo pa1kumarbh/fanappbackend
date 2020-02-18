@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace k8s_cicd   # this is a comment 
+namespace k8s_cicd   
 {
     public class Program
     {
